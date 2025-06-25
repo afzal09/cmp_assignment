@@ -13,11 +13,16 @@ Figma design reference:
 
 ## 🎬 Final Prototype
 
-**Design to Code – Prototype Video:**  
-![Prototype Video](dev_samples/Screen_Recording_prototype.mp4)
+**Design to Code – Prototype Video:**
+
+https://github.com/user-attachments/assets/dc64dc04-684a-4d27-857c-90011aaa16bc
+  
 
 **Flutter Implementation Demo:**  
-![Implementation Video](dev_samples/Screenrecorder-2025-06-25-12-54-07-305.mp4)
+
+https://github.com/user-attachments/assets/31cc747d-128f-4457-8d8b-6824b8882d67
+
+
 
 ## 🛠️ Key Highlights
 - Developed using **Flutter**
