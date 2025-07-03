@@ -63,6 +63,8 @@ ios/fastlane/output
 ios/Runner.ipa
 ios/Runner.app.dSYM.zip
 
-linux/
-web/
-macos/
+linux/*
+web/*
+macos/*
+windows/*
+ios/*
